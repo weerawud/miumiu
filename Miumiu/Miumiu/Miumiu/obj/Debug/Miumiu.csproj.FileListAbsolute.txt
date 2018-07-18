@@ -1,0 +1,60 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Miumiu.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\obj\Debug\Miumiu.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\obj\Debug\Miumiu.FormMain.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\obj\Debug\Miumiu.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\obj\Debug\Miumiu.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Miumiu.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Miumiu.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.MachineLearning.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.Math.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.Statistics.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\AForge.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\AForge.Math.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Deedle.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\FSharp.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.MachineLearning.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.Math.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.Statistics.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\AForge.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\AForge.Math.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Deedle.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Deedle.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\bin\Debug\FSharp.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\obj\Debug\Miumiu.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Miumiu\Miumiu\obj\Debug\Miumiu.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Miumiu\Miumiu\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Miumiu\Miumiu\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Miumiu\Miumiu\bin\Debug\encog-core-cs.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Miumiu\Miumiu\bin\Debug\Accord.dll.config
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Miumiu.exe.config
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\obj\Debug\Miumiu.exe
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\obj\Debug\Miumiu.pdb
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.dll.config
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Miumiu.exe
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Miumiu.pdb
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.MachineLearning.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.Math.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.Statistics.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\AForge.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\AForge.Math.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Deedle.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\encog-core-cs.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\FSharp.Core.dll
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.MachineLearning.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.Math.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Accord.Statistics.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\AForge.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\AForge.Math.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Deedle.pdb
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\Deedle.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\bin\Debug\FSharp.Core.xml
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\obj\Debug\Miumiu.csprojResolveAssemblyReference.cache
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\obj\Debug\Miumiu.FormMain.resources
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\obj\Debug\Miumiu.Properties.Resources.resources
+C:\Users\weerawud\OneDrive\code\Miumiu\Miumiu\obj\Debug\Miumiu.csproj.GenerateResource.Cache

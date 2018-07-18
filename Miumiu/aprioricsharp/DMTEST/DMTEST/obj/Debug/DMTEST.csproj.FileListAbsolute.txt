@@ -1,0 +1,5 @@
+C:\Users\weerawud\Documents\Visual Studio 2015\Projects\Miumiu\aprioricsharp\DMTEST\DMTEST\obj\Debug\DMTEST.exe
+C:\Users\weerawud\Documents\Visual Studio 2015\Projects\Miumiu\aprioricsharp\DMTEST\DMTEST\obj\Debug\DMTEST.pdb
+C:\Users\weerawud\Documents\Visual Studio 2015\Projects\Miumiu\aprioricsharp\DMTEST\DMTEST\bin\Debug\DMTEST.exe
+C:\Users\weerawud\Documents\Visual Studio 2015\Projects\Miumiu\aprioricsharp\DMTEST\DMTEST\bin\Debug\DMTEST.pdb
+C:\Users\weerawud\Documents\Visual Studio 2015\Projects\Miumiu\aprioricsharp\DMTEST\DMTEST\obj\Debug\DMTEST.csprojResolveAssemblyReference.cache

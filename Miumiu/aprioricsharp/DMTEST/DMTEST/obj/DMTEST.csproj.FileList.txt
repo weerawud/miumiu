@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DMTEST.exe
+bin\Debug\DMTEST.pdb
+obj\Debug\DMTEST.exe
+obj\Debug\DMTEST.pdb
